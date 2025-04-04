@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1437314_reguld_0_sinistros" version="2" view="workspace-reguldora_sz-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sinistro</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ramo</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_aviso</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tipo_regula_o</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_in_cio_regula_o</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sre1_data_limite_1_contato</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_1_contato</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>situa_o_1_contato</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sre2_data_limite_vistoria</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_vistoria</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>situa_o_vistoria</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sre3_data_limite_ata_vistoria</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_ata_de_vistoria</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>situa_o_ata_vistoria</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_de_inclus_o_do_ltimo_documento</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sre4_data_limite_conclus_o_documento</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_conclus_o_documento</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>situa_o_conclus_o_documento</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sre5_data_limite_conclus_o_prazo_final</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_conclus_o_prazo_final</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>situa_o_conclus_o_prazo_final</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad37c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_reabertura</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>segurado</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>situa_o</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>t_cnico</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_despesa</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_honor_rio</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>lmg</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_reclamado</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_apurado</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_franquia</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_rateio</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_indenizar</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_primeira_reclassifica_o</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>historico_primeira_reclassifica_o</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>44acb26183bb4210529ef696feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>motivo_encerramento_regula_o</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>48acb26183bb4210529ef696feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>valor_estimado_dano_sinistro</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>4cacb26183bb4210529ef696feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>teste</element>
+            <list_id display_value="x_1437314_reguld_0_sinistros" element="NULL" name="x_1437314_reguld_0_sinistros" parent="NULL" relationship="NULL" sys_domain="global" view="5d9cbe213abb4210810377ac38bfea58">c8acb26183bb4210529ef696feaad36a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_id>40acb26183bb4210529ef696feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1437314_reguld_0_sinistros</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-03 19:58:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8acb26183bb4210529ef696feaad36a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1437314_reguld_0_sinistros</sys_name>
+            <sys_package display_value="Reguldora_SZ" source="x_1437314_reguld_0">8889eb51833b0210529ef696feaad3a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reguldora_SZ">8889eb51833b0210529ef696feaad3a3</sys_scope>
+            <sys_update_name>sys_ui_list_x_1437314_reguld_0_sinistros_workspace-reguldora_sz-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-03 19:58:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Reguldora_SZ 0" name="workspace-reguldora_sz-0">5d9cbe213abb4210810377ac38bfea58</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

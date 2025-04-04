@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e70ea719833b0210529ef696feaad368" label="Sinistros" max_length="40" name="x_1437314_reguld_0_sinistros" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data Conclusão (DOCUMENTO)" max_length="40" name="data_conclus_o_documento" type="glide_date"/>
+        <element label="LMG" max_length="15" name="lmg" type="decimal"/>
+        <element label="Valor Franquia" max_length="38" name="valor_franquia" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Situação Ata Vistoria" max_length="40" name="situa_o_ata_vistoria" type="string"/>
+        <element label="Valor Honorário" max_length="38" name="valor_honor_rio" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Situação Conclusão (DOCUMENTO)" max_length="40" name="situa_o_conclus_o_documento" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Técnico" max_length="40" name="t_cnico" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Primeira Reclassificação" max_length="40" name="data_primeira_reclassifica_o" type="glide_date"/>
+        <element label="Valor Estimado Dano Sinistro" max_length="15" name="valor_estimado_dano_sinistro" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Segurado " max_length="50" name="segurado" type="string"/>
+        <element label="Valor Apurado" max_length="15" name="valor_apurado" type="decimal"/>
+        <element label="Valor Indenizar" max_length="38" name="valor_indenizar" type="decimal"/>
+        <element label="Teste " max_length="15" name="teste" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Historico Primeira Reclassificação" max_length="68" name="historico_primeira_reclassifica_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Conclusão (PRAZO FINAL)" max_length="40" name="data_conclus_o_prazo_final" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Data de Inclusão do Último Documento" max_length="40" name="data_de_inclus_o_do_ltimo_documento" type="glide_date"/>
+        <element label="Valor Rateio" max_length="38" name="valor_rateio" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="SRE2 - Data Limite Vistoria" max_length="40" name="sre2_data_limite_vistoria" type="string"/>
+        <element label="Valor Despesa" max_length="15" name="valor_despesa" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Data REABERTURA" max_length="40" name="data_reabertura" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Motivo Encerramento Regulação" max_length="120" name="motivo_encerramento_regula_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Vistoria" max_length="40" name="data_vistoria" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Situação Vistoria" max_length="40" name="situa_o_vistoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Aviso" max_length="40" name="data_aviso" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Situação" max_length="40" name="situa_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SRE1 - Data Limite 1º Contato" max_length="40" name="sre1_data_limite_1_contato" type="field_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Ramo" max_length="40" name="ramo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SRE5 - Data Limite Conclusão (PRAZO FINAL)" max_length="40" name="sre5_data_limite_conclus_o_prazo_final" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Início Regulação" max_length="40" name="data_in_cio_regula_o" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Situação 1º Contato" max_length="40" name="situa_o_1_contato" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Ata de Vistoria" max_length="40" name="data_ata_de_vistoria" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="SRE4 - Data Limite Conclusão (DOCUMENTO)" max_length="40" name="sre4_data_limite_conclus_o_documento" type="string"/>
+        <element label="Valor Reclamado" max_length="15" name="valor_reclamado" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Situação Conclusão (PRAZO FINAL)" max_length="40" name="situa_o_conclus_o_prazo_final" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data 1º Contato" max_length="40" name="data_1_contato" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="SRE3 - Data Limite Ata Vistoria" max_length="40" name="sre3_data_limite_ata_vistoria" type="string"/>
+        <element formula="00000000000000" label="Sinistro   " max_length="40" name="sinistro" read_only="true" type="float" virtual="true" virtual_type="formula"/>
+        <element attributes="edge_encryption_enabled=true" label="Tipo Regulação" max_length="40" name="tipo_regula_o" type="string"/>
+    </element>
+</database>

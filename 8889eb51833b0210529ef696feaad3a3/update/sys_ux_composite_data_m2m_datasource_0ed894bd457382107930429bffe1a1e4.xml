@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">8ad894bdfe73821092f2bd8c3db596e6</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">4ed894bdba73821021dccddf8cee96e3</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-04 02:41:07</sys_created_on>
+        <sys_id>0ed894bd457382107930429bffe1a1e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reguldora_SZ" source="x_1437314_reguld_0">8889eb51833b0210529ef696feaad3a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reguldora_SZ">8889eb51833b0210529ef696feaad3a3</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_0ed894bd457382107930429bffe1a1e4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-04 02:41:07</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

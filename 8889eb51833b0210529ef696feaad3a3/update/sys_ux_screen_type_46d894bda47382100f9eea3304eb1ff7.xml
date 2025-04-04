@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Login</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-04 02:41:05</sys_created_on>
+        <sys_id>46d894bda47382100f9eea3304eb1ff7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Login</sys_name>
+        <sys_package display_value="Reguldora_SZ" source="x_1437314_reguld_0">8889eb51833b0210529ef696feaad3a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reguldora_SZ">8889eb51833b0210529ef696feaad3a3</sys_scope>
+        <sys_update_name>sys_ux_screen_type_46d894bda47382100f9eea3304eb1ff7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-04 02:41:05</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=46d894bda47382100f9eea3304eb1ff7"/>
+</record_update>

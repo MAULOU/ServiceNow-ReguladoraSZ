@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="aviso de sinistro">6146d4b983738210529ef696feaad3c9</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-04 02:37:36</sys_created_on>
+        <sys_id>a30898b983738210529ef696feaad394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Devices Set.aviso de sinistro</sys_name>
+        <sys_package display_value="Reguldora_SZ" source="x_1437314_reguld_0">8889eb51833b0210529ef696feaad3a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reguldora_SZ">8889eb51833b0210529ef696feaad3a3</sys_scope>
+        <sys_update_name>io_set_item_a30898b983738210529ef696feaad394</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-04 02:37:36</sys_updated_on>
+        <variable_set display_value="Mobile Devices Set">e84d3f3241411300964ff05369414e3e</variable_set>
+    </io_set_item>
+</record_update>

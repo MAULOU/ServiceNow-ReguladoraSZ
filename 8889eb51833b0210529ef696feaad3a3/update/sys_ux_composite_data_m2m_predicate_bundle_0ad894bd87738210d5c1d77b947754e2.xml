@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">8ad894bdfe73821092f2bd8c3db596e6</dataset>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">8ad894bdcc7382105de43435fbfd7de3</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-04 02:41:04</sys_created_on>
+        <sys_id>0ad894bd87738210d5c1d77b947754e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reguldora_SZ" source="x_1437314_reguld_0">8889eb51833b0210529ef696feaad3a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reguldora_SZ">8889eb51833b0210529ef696feaad3a3</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_0ad894bd87738210d5c1d77b947754e2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-04 02:41:04</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

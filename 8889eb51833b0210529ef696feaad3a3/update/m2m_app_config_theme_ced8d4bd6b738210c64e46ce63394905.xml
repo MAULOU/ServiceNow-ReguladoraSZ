@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">8ad8d4bd6a738210500d98a53ef30404</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-08-04 02:41:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ced8d4bd6b738210c64e46ce63394905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Reguldora_SZ" source="x_1437314_reguld_0">8889eb51833b0210529ef696feaad3a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reguldora_SZ">8889eb51833b0210529ef696feaad3a3</sys_scope>
+        <sys_update_name>m2m_app_config_theme_ced8d4bd6b738210c64e46ce63394905</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-08-04 02:41:04</sys_updated_on>
+        <theme display_value="Light Theme">4ed8d4bdd8738210c63f6c0a78769004</theme>
+        <ux_app_configuration display_value="Custom Portal App Config">fdd894bd83738210529ef696feaad3b1</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>
